@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ToggleButton;
 
+//new line
 public class MainActivity extends AppCompatActivity {
     TextView tvDisplay;
     Button btnDisplay;
